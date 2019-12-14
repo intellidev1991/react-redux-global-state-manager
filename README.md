@@ -165,7 +165,7 @@ import {
   useStore, // hook - use this in functional component and return [state,dispatch]
   readOnlyStore, // just return current store value in non-component functions
   dispatchDirectly // To access dispatch in non-component functions
-} from "../shared/globalStore/index";
+} from "../store/index";
 ```
 
 ## For use in `functional Components`:
