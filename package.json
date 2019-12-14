@@ -1,0 +1,33 @@
+{
+  "name": "react-redux-global-state-manager",
+  "version": "1.0.0",
+  "description": "Fully native global state manager using react Hooks. You can use this library instead of Redux or Mobx. also you can access state from all of your components and behavior with them using hooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellidev1991/react-redux-global-state-manager.git"
+  },
+  "keywords": [
+    "react-redux-global-state-manager",
+    "react-native-global-state-manager",
+    "react-global-state-manager",
+    "react-native",
+    "react-state-manager",
+    "react-global-state",
+    "react-hooks-store",
+    "hooks-state-manager"
+  ],
+  "author": "Hamed Taheri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intellidev1991/react-redux-global-state-manager/issues"
+  },
+  "homepage": "https://github.com/intellidev1991/react-redux-global-state-manager#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
