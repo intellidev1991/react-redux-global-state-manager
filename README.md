@@ -157,6 +157,15 @@ export { storeNames, storeActions, useStore, readOnlyStore, dispatchDirectly };
 
 ```
 
+## Final Step:
+Call `store/index.js` in your main index.js file once time. (the first begin of your app)
+
+e.g: Main index.js of your app
+
+```js
+import "./store/index.js"; // load stores once time in begin of your app
+```
+
 # Using store in our components
 
 ## Import required functions from entry point at `/store/index.js`
