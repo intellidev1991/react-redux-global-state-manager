@@ -7,7 +7,7 @@
 Fully native `global state manager` using react `Hooks` (React > 16.8). You can use this library instead of Redux or MobX. also you can access state from all of your components and behavior with them using hooks. 
 
 A nice state management lib for React that uses the React's useState hook. Which basically means no magic behind the curtains, only pure react APIs being used to share state across components.
-## Examle:
+## Example:
 
 [![Edit ecstatic-chatterjee-jvyd2](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/ecstatic-chatterjee-jvyd2?fontsize=14&hidenavigation=1&theme=dark)
 
